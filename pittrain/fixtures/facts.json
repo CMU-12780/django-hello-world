@@ -1,0 +1,6 @@
+[
+  {"model": "pittrain.pitairporttrainfact", "pk": 1, "fields": {"dateAdded": "2026-11-17", "funFact": "The train carries passengers between the landside terminal and the airside terminal."}},
+  {"model": "pittrain.pitairporttrainfact", "pk": 2, "fields": {"dateAdded": "2026-11-17", "funFact": "The train has no driver. A computer controls it."}},
+  {"model": "pittrain.pitairporttrainfact", "pk": 3, "fields": {"dateAdded": "2026-11-17", "funFact": "The train opened with the airport's midfield terminal in 1992."}},
+  {"model": "pittrain.pitairporttrainfact", "pk": 4, "fields": {"dateAdded": "2026-11-17", "funFact": "Riding the train is free."}}
+]
